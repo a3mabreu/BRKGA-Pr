@@ -23,7 +23,6 @@ void brkgaEx(CSR& csr, std::map<std::string, ParamValue> &params) {
 
     if (!get<int>(params["irace"])) {
         std::cout << "Profile: " << csr.best_profile;
-        std::cout << "\ttotal time: " << duration.count() << "s" << std::endl;
     } else {
         std::cout << csr.best_profile;
     }

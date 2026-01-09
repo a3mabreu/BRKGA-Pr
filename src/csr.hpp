@@ -15,7 +15,6 @@ public:
     std::vector<usize> col_index; // Column indices of non-zero entries
     std::vector<usize> row_index; // Row index pointers
     std::vector<usize> labels; // Labels of vertices
-    // std::vector<usize> rho; // Vertices vertex assigned to labels
     std::vector<usize> degree; // Degre of vertices
     std::vector<char> visited; // Visited vertices
     std::vector<usize> distances; // Distances
