@@ -1,2 +1,3 @@
-# BRKGA-P
-BRKGA based heuristics for profile reduction
+# BRKGA-Pr
+
+BRKGA based heuristic for profile reduction
