@@ -28,7 +28,7 @@ To compile the program:
 
 ### Running
 
-To run the program with original parameters for 120 seconds:
+To run the program for 120 seconds:
 
 `./bin/main --filename input/usps_norm_5NN.mtx --max_time 120 --pop 20 --elite 8 --mutants 4 --prob 0.7`
 
